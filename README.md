@@ -45,4 +45,3 @@ This repository contains a simple binary expression parser implemented in C++. I
     ```bash
     ./parser
     ```
-4.  Enter mathematical expressions at the prompt. The parser will output the corresponding AST.
