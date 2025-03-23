@@ -48,3 +48,12 @@ This repository contains a simple binary expression parser implemented in C++. I
 4.  Enter mathematical expressions at the prompt. The parser will output the corresponding AST.
 
 ## Example
+Enter an expression: 2 + 3 * 4
+
+Output:
+Parsed AST:
+Binary Op: +
+Number: 2
+Binary Op: *
+Number: 3
+Number: 4
